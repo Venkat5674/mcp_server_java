@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+!target/leetcode-github-mcp-1.0.0.jar
+.idea/
+.vscode/
+application-local.properties
+.env
+*.env
+logs/
+*.log

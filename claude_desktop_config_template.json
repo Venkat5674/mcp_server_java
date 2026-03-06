@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "leetcode-github-mcp": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "REPLACE_WITH_FULL_PATH_TO/leetcode-github-mcp-1.0.0.jar"
+      ],
+      "env": {
+        "GITHUB_TOKEN": "REPLACE_WITH_YOUR_GITHUB_PERSONAL_ACCESS_TOKEN"
+      }
+    }
+  }
+}
